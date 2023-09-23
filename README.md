@@ -6,5 +6,4 @@ diversified projects
 - 📫 How to reach me gabrieuvinici@gmail.com
 - eu sou ✨ special ✨
 - 🫶🏽 programação 
-<a href="https://github.com/"gabriel-vinicius-silva">
-<div><ahttps://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green></div>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"></div>
