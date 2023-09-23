@@ -6,3 +6,4 @@ diversified projects
 - 📫 How to reach me gabrieuvinici@gmail.com
 - eu sou ✨ special ✨
 - 🫶🏽 programação 
+<a href="https://github.com/"gabriel-vinicius-silva">
