@@ -7,3 +7,6 @@ diversified projects
 - eu sou ✨ special ✨
 - 🫶🏽 programação 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"></div>
+
+![eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.png](https://github.com/gabriel-vinicius-silva/meu-portifolio/assets/125910215/9d9c7cb6-105f-4cf0-95d4-b102354a8d4c)
+
