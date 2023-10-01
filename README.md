@@ -12,7 +12,7 @@ diversified projects
 
 
 
-## Faaaala dev, Luigi Aqui!
+## Faaaala dev, Gabriel aqui !
 
 <div>
   
