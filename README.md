@@ -39,13 +39,5 @@ diversified projects
          <img height="30" width="40" alt="JacksonRoberio-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
          <img height="30" width="40" alt="JacksonRoberio-Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> 
          <img height="30" width="40" alt="JacksonRoberio-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
-         <img height="30" width="40" alt="JacksonRoberio-Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" /> 
-         <img height="30" width="40" alt="JacksonRoberio-Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> 
-         <img height="30" width="40" alt="JacksonRoberio-Tomcat" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" /> 
-         <img height="30" width="40" alt="JacksonRoberio-Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /> 
-         <img height="30" width="40" alt="JacksonRoberio-Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /> 
-         <img height="30" width="40" alt="JacksonRoberio-SqlLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" /> 
-         <img height="30" width="40" alt="JacksonRoberio-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-         <img height="30" width="40" alt="JacksonRoberio-Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
-         <img height="30" width="40" alt="JacksonRoberio-Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> 
-  
+         <img height="30" width="40" alt="JacksonRoberio-Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/and
+               <img height="30" width="40" alt="JacksonRoberio-Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" /> 
