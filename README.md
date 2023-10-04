@@ -16,14 +16,6 @@ diversified projects
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-vinicius-silva &show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vinicius-silva &layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
-
-
-  
-![Snake animation](https://github.com/gabriel-vinicius-silva/gabriel-vinicius-silva/blob/output/github-contribution-grid-snake.svg)
 
  ## :small_orange_diamond: Perfil do Github de Gabriel 👋 
   
