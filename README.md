@@ -47,10 +47,5 @@ diversified projects
          <img height="30" width="40" alt="JacksonRoberio-SqlLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" /> 
          <img height="30" width="40" alt="JacksonRoberio-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
          <img height="30" width="40" alt="JacksonRoberio-Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
-         <img height="30" width="40" alt="JacksonRoberio-Gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> 
          <img height="30" width="40" alt="JacksonRoberio-Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> 
-         <img height="30" width="40" alt="JacksonRoberio-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
-     </a> 
- </div>           
-  
   
