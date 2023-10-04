@@ -31,7 +31,7 @@ diversified projects
  ## :small_orange_diamond: Perfil do Github de Gabriel 👋 
   
  <div> 
-   <a href="https://jacksonroberio.com.br" target="_blank" > 
+   <a href="https://Gabriel " target="_blank" > 
 
   
  ### :small_orange_diamond: Usuário :bowtie: 
