@@ -24,10 +24,7 @@ diversified projects
 
   
 ![Snake animation](https://github.com/gabriel-vinicius-silva/gabriel-vinicius-silva/blob/output/github-contribution-grid-snake.svg)
- <a href="https://jacksonroberio.com.br" target="_blank" > 
-   <img src="https://visitor-badge.laobi.icu/badge?page_id=jackson-roberio.jackson-roberio" /> 
- </a> 
-  
+
  ## :small_orange_diamond: Perfil do Github de Gabriel 👋 
   
  <div> 
