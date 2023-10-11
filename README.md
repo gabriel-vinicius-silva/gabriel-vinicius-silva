@@ -44,9 +44,4 @@ diversified projects
           <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
             <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 
-            ![eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.png](https://github.com/gabriel-vinicius-silva/meu-portifolio/assets/125910215/9d9c7cb6-105f-4cf0-95d4-b102354a8d4c)
-</div>
-          
-  ![Snake animation](https://github.com/gabriel-vinicius-silva//blob/output/github-contribution-grid-snake.svg)
