@@ -10,6 +10,13 @@ diversified projects
 
 ![eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.png](https://github.com/gabriel-vinicius-silva/meu-portifolio/assets/125910215/9d9c7cb6-105f-4cf0-95d4-b102354a8d4c)
 
+<div>
+  <a href="https://github.com/gabriel-vinicius-silva">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-vinicius-silva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vinicius-silva&layout=compact&langs_count=7&theme=react" />
+
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
 
 
 ## Faaaala dev, Gabriel aqui !
