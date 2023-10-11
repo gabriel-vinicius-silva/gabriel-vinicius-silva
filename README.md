@@ -35,7 +35,7 @@ diversified projects
  <div> 
      <a href="https://github.com/"gabriel-vinicius-silva"> 
          <img height="30" width="40" alt="JacksonRoberio-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-         <img height="30" width="40" alt="JacksonRoberio-Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> 
          <img height="30" width="40" alt="JacksonRoberio-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
-         <img height="30" width="40" alt="JacksonRoberio-Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/and
-               <img height="30" width="40" alt="JacksonRoberio-Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" /> 
+          <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+            <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+          
