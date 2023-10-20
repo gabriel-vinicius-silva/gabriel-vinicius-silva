@@ -11,11 +11,16 @@ diversified projects
 
 <div>
   <a href="https://github.com/gabriel-vinicius-silva">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-vinicius-silva&show_icons=true&theme=neon)
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vinicius-silva&layout=compact&langs_count=7&theme=react" />
+  
+//sei lá
 
 
 
+<a href="https://github.com/gabriel-vinicius-silva">
+
+
+
+<img height="188em" align="center" src="https://github-readme-stats vercel.app/api?username=gabriel-vinicius-silva&show_icons=true&theme=
 
 
 
