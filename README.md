@@ -11,20 +11,25 @@ diversified projects
 
 <div>
   <a href="https://github.com/gabriel-vinicius-silva">
-  
-//sei lá
 
 
 
-<a href="https://github.com/gabriel-vinicius-silva">
 
+! [eyJidWNrZXQ101Job2xvcGluLWFzc2V@cyIsImtleSI6ImFzc2V0cy9
 
+49
 
-<img height="188em" align="center" src="https://github-readme-stats vercel.app/api?username=gabriel-vinicius-silva&show_icons=true&theme=
+jbDd0ZDhncDUwMTMyMD1rMHd10HF1NHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfXB =.png](https://github.com/gabriel-vinicius-silva/meu-portifolio/assets
 
+/125918215/9d9c7cb6-185f-4cf0-95d4-b102354a8d4c)
 
+50
 
-<div>
+</div>
+
+51 52 + [Snake animation](https://github.com/gabriel-vinicius-silva//blob
+
+/output/github-contribution-grid-snake.svg)
   
 
  ## :small_orange_diamond: Perfil do Github de Gabriel 👋 
