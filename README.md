@@ -1,7 +1,6 @@
- src="https://visitor-badge.laobi.icu/badge?page_id=gabriel-vinicius-silva.jackson-roberio" />
-</a>
 
-## :small_orange_diamond: Perfil do Github de Jackson Roberio
+
+## :small_orange_diamond: Perfil do Github de Gabriel Vinicius 
 
 <div>
   <a href="https://jacksonroberio.com.br" target="_blank">
