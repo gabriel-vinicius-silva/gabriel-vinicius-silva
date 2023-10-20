@@ -1,45 +1,87 @@
-- 👋 Hi, I’m @gabriel-vinicius-silva
-- 👀 I’m interested in java , js , HTML , CSS , Photoshop,  informatica
-- 🌱 I’m currently learning HTML , JS , CSS
-- 💞️ I’m looking to collaborate on 
-diversified projects
-- 📫 How to reach me gabrieuvinici@gmail.com
-- eu sou ✨ special ✨
-- 🫶🏽 programação 
 
-## Faaaala dev, Gabriel aqui !
+2 <a href="https://jacksonroberio.com.br" target="_blank" 3 <img src="https://visitor-badge.laobi.icu/badge?page_id=jackson -roberio.jackson-roberio" />
+
+4 < /a>
+
+5 6 ## :small_orange diamond: Perfil do Github de Jackson Roberio 7 8 9 10
 
 <div>
-  <a href="https://github.com/gabriel-vinicius-silva">
+
+<a href="https://jacksonroberio.com.br" target="_blank"
+
+<img src="https://img.shields.io/badge/website-000000?style-for-the -badge&logo=About.me&logoColor-white" /> </a>
+
+<a href="https://www.linkedin.com/in/jackson-roberio" target="_blank">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style-for-the
+
+-badge&logo=linkedin&logoColor=white" />
+
+11
+
+12
+
+13
+
+</a>
+
+<a href="https:///play.google.com/store/apps/developer?id= Jackson+Roberio+Silva+dos+Santos" target="_blank"> 155
+
+14
+
+16 <img src="https://img.shields.io/badge/Google_Play-414141?style=for -the-badge&logo-google-play&logoColor=white" />
 
 
+-badge&logo=twitter&logoColor=white" /> </a>
 
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?
-gabriel-vinicis-silva={gabriel-vinicius-silva)&theme=blue-green"></div>
+<a href="https://stackoverflow.com/users/11689865/jackson-roberio"
 
+target="_blank"> <img src="https://img.shields.io/badge/Stack Overflow-FE7A16?style=
 
+for-the-badge&logo-stack-overflow&logoColor=white" />
 
+</a>
 
- ## :small_orange_diamond: Perfil do Github de Gabriel 👋 
-  
- <div> 
-   <a href="https://Gabriel " target="_blank" > 
+<a href="https://br.pinterest.com/gabriel-vinicius-silva"target="_blank"> <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?& style-for-the-badge&logo-Pinterest&logoColor=white" />
 
-  
- ### :small_orange_diamond: Usuário :bowtie: 
- <div> 
-   <a href="https://github.com/gabriel-vinicius-silva"> 
-       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-       <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />   
-   </a> 
- </div> 
-  
- ### :small_orange_diamond: Skill :clap: 
- <div> 
-     <a href="https://github.com/"gabriel-vinicius-silva"> 
-         <img height="30" width="40" alt="JacksonRoberio-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-         <img height="30" width="40" alt="JacksonRoberio-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
-          <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-            <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</a>
 
+220
 
+21
+
+22
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27 </div>
+
+28
+
+29 ### :small_orange_diamond: Usuário :bowtie: 30 <div>
+
+31
+
+32
+
+<a href="https://github.com/jackson-roberio"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for
+
+-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for
+
+-the-badge&logo-eclipse&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Notepad++-98E59A.svg?style=
+
+34 for-the-badge&logo=notepad%2B%2B&logoColor-black" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style 35
+
+=for-the-badge&logo-android-studio&logoColor=white" />
+
+33
