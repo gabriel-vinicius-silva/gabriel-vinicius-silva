@@ -1,4 +1,8 @@
 
+12:40
+
+README.md
+
 2 <a href="https://jacksonroberio.com.br" target="_blank" 3 <img src="https://visitor-badge.laobi.icu/badge?page_id=jackson -roberio.jackson-roberio" />
 
 4 < /a>
@@ -31,6 +35,13 @@
 
 16 <img src="https://img.shields.io/badge/Google_Play-414141?style=for -the-badge&logo-google-play&logoColor=white" />
 
+17
+
+18
+
+19
+
+</a> <a href="https://twitter.com/JacksonRoberio" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style-for-the
 
 -badge&logo=twitter&logoColor=white" /> </a>
 
@@ -42,7 +53,7 @@ for-the-badge&logo-stack-overflow&logoColor=white" />
 
 </a>
 
-<a href="https://br.pinterest.com/gabriel-vinicius-silva"target="_blank"> <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?& style-for-the-badge&logo-Pinterest&logoColor=white" />
+<a href="https://br.pinterest.com/jackson_roberio" target="_blank"> <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?& style-for-the-badge&logo-Pinterest&logoColor=white" />
 
 </a>
 
