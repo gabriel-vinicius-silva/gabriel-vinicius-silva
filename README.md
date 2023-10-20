@@ -14,18 +14,8 @@ diversified projects
 
 
 
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username ={username)&theme=blue-green"></div>
-
-
-
-<div aling="center">
-
- ! [eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd@ZDhncDU WMTMyMD1rMHd10HF1NHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.png](https: //github.com/gabriel-vinicius-silva/meu-portifolio/assets/125910215 /9d9c7cb6-105f-4cf0-95d4-b102354a8d4c)
-
-
-</div>
-
-! [eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDU WMTMyMD1rMHd10HF1NHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.png](https: //github.com/gabriel-vinicius-silva/meu-portifolio/assets/125918215 /9d9c7cb6-185f-4cf0-95d4-b182354a8d4c)
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?
+gabriel-vinicis-silva={gabriel-vinicius-silva)&theme=blue-green"></div>
 
 
 
