@@ -14,23 +14,21 @@ diversified projects
 
 
 
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username ={username)&theme=blue-green"></div>
 
-! [eyJidWNrZXQ101Job2xvcGluLWFzc2V@cyIsImtleSI6ImFzc2V0cy9
 
-49
 
-jbDd0ZDhncDUwMTMyMD1rMHd10HF1NHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfXB =.png](https://github.com/gabriel-vinicius-silva/meu-portifolio/assets
+<div aling="center">
 
-/125918215/9d9c7cb6-185f-4cf0-95d4-b102354a8d4c)
+ ! [eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd@ZDhncDU WMTMyMD1rMHd10HF1NHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.png](https: //github.com/gabriel-vinicius-silva/meu-portifolio/assets/125910215 /9d9c7cb6-105f-4cf0-95d4-b102354a8d4c)
 
-50
 
 </div>
 
-51 52 + [Snake animation](https://github.com/gabriel-vinicius-silva//blob
+! [eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDU WMTMyMD1rMHd10HF1NHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.png](https: //github.com/gabriel-vinicius-silva/meu-portifolio/assets/125918215 /9d9c7cb6-185f-4cf0-95d4-b182354a8d4c)
 
-/output/github-contribution-grid-snake.svg)
-  
+
+
 
  ## :small_orange_diamond: Perfil do Github de Gabriel 👋 
   
