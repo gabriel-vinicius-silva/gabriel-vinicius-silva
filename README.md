@@ -98,7 +98,7 @@
 ### :small_orange_diamond: Neste Git :octocat:
 <a href="https://github.com/jackson-roberio">
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jgabriel-vinicius-silva&show_icons=true&theme=radical&locale=pt-BR&include_all_commits=true&count_private=true&hide=contribs" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-vinicius-silva&show_icons=true&theme=radical&locale=pt-BR&include_all_commits=true&count_private=true&hide=contribs" />
 </p>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
