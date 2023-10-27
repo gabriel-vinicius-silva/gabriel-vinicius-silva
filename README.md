@@ -47,10 +47,7 @@
 
 
 ### :small_orange_diamond: Neste Git :octocat:
-<a href="https://github.com/
- <a href="https://jacksonroberio.com.br" target="_blank" >
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jackson-roberio.jackson-roberio" />
-</a>
+
 
 ## :small_orange_diamond: Perfil do Github de Gabriel Vinicius 👋
  
