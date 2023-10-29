@@ -29,19 +29,15 @@
 <div>
     <a href="https://github.com/jackson-roberio">
         <img height="30" width="40" alt="gabriel-vinicius-silva-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-        <img height="30" width="40" alt="gabriel-vinicius-silva-Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+        
         <img height="30" width="40" alt="gabriel-vinicius-silva-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-        <img height="30" width="40" alt="gabriel-vinicius-silva-Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
         <img height="30" width="40" alt="gabriel-vinicius-silva-Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-        <img height="30" width="40" alt="gabriel-vinicius-silva-Tomcat" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
-        <img height="30" width="40" alt="gabriel-vinicius-silva-Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+        
         <img height="30" width="40" alt="gabriel-vinicius-silva-Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
         <img height="30" width="40" alt="gabriel-vinicius-silva-SqlLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
         <img height="30" width="40" alt="gabriel-vinicius-silva-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
         <img height="30" width="40" alt="gabriel-vinicius-silva-Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-        <img height="30" width="40" alt="JacksonRoberio-Gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
         <img height="30" width="40" alt="gabriel-vinicius-silva-Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-        <img height="30" width="40" alt="gabriel-vinicius-silva-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     </a>
 </div>          
 
@@ -81,11 +77,9 @@
         <img height="30" width="40" alt="gabriel-vinicius-silva-Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
         <img height="30" width="40" alt="gabriel-vinicius-silva-Tomcat" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
         <img height="30" width="40" alt="gabriel-vinicius-silva-Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-        <img height="30" width="40" alt="gabriel-vinicius-silva-Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-        <img height="30" width="40" alt="gabriel-vinicius-silva-SqlLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-        <img height="30" width="40" alt="gabriel-vinicius-silva-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        <img height="30" width="40" alt="gabriel-vinicius-silva-Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /
+>
         <img height="30" width="40" alt="gabriel-vinicius-silva-Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-        <img height="30" width="40" alt="JacksonRoberio-Gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
         <img height="30" width="40" alt="gabriel-vinicius-silva-Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
         <img height="30" width="40" alt="gabriel-vinicius-silva-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     </a>
