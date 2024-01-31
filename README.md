@@ -1,3 +1,12 @@
+<div>
+ 
+  <a href="https:///play.google.com/store/apps/developer?id=Jackson+Roberio+Silva+dos+Santos" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> 
+  </a> 
+  <a href="https://br.pinterest.com/jackson_roberio" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /> 
+  </a>
+</div>
 
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gabriel-vinicius-silva.gabriel-vinicius-silva" />
