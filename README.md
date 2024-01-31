@@ -69,22 +69,13 @@
 
 ### :small_orange_diamond: Skill :clap:
 <div>
-    <a href="https://github.com/jackson-roberio">
-        <img height="30" width="40" alt="gabriel-vinicius-silva-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-        <img height="30" width="40" alt="gabriel-vinicius-silva-Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+    <a href="https://github.com/gabriel-vinicius-silva">
+        <img height="30" width="40" alt="gabriel-vinicius-silva-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+        <img height="30" width="40" alt="gabriel-vinicius-silva-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <img height="30" width="40" alt="gabriel-vinicius-silva-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
         <img height="30" width="40" alt="gabriel-vinicius-silva-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-        <img height="30" width="40" alt="gabriel-vinicius-silva-Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
-        <img height="30" width="40" alt="gabriel-vinicius-silva-Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-        <img height="30" width="40" alt="gabriel-vinicius-silva-Tomcat" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
-        <img height="30" width="40" alt="gabriel-vinicius-silva-Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-        <img height="30" width="40" alt="gabriel-vinicius-silva-Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /
->
-        <img height="30" width="40" alt="gabriel-vinicius-silva-Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-        <img height="30" width="40" alt="gabriel-vinicius-silva-Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-        <img height="30" width="40" alt="gabriel-vinicius-silva-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     </a>
-</div>          
-
+</div>
 
 ### :small_orange_diamond: Neste Git :octocat:
 <a href="https://github.com/jackson-roberio">
