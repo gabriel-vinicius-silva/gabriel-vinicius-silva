@@ -50,3 +50,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-vinicius-silva&repo=sistemaDeVotacao&theme=dracula" />
   </a>
 </p>
+<p>
+  <a href="https://github.com/gabriel-vinicius-silva/JackHub">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-vinicius-silva&repo=pingPongo&theme=dracula" />
+  </a>
+</p>
+
