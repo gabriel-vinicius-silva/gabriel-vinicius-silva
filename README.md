@@ -42,7 +42,7 @@
 ### :small_orange_diamond: Alguns projetos chaves :eyes:
 <p>
   <a href="https://github.com/gabriel-vinicius-silva/JacKar-Android">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-vinicius-silva&repo=MinisteriAtosd&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-vinicius-silva&repo=MinisteriAtos&theme=dracula" />
   </a>
 </p>
 <p>
