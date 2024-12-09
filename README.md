@@ -33,7 +33,7 @@
 
 ### :small_orange_diamond: Badges Holopin :paperclip:
 
-[![@jacksonroberio Holopin board](https://holopin.io/api/user/board?user=jacksonroberio1)](https://holopin.io/@jacksonroberio1)
+[![An image of @gabrielviniciussilva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gabrielviniciussilva)](https://holopin.io/@gabrielviniciussilva)
 
 
 ### :small_orange_diamond: Neste Git :octocat:
