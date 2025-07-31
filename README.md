@@ -11,7 +11,7 @@
   </a>
 ### :small_orange_diamond: Usuário :bowtie:
 <div>
-  <a href="https://github.com/jackson-roberio">
+  <a href="https://github.com/jgabriel-vinicius-silva">
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
       <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />  
       <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -49,16 +49,16 @@
 ### :small_orange_diamond: Alguns projetos chaves :eyes:
 <p>
   <a href="https://github.com/gabriel-vinicius-silva/scrum-certificate">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-roberio&repo=scrum-certificate&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jgabriel-vinicius-silva&repo=scrum-certificate&theme=dracula" />
   </a>
 </p>
 <p>
-  <a href="https://github.com/jackson-roberio/JacKar-Android">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-roberio&repo=JacKar-Android&theme=dracula" />
+  <a href="https://github.com/jgabriel-vinicius-silva/JacKar-Android">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jgabriel-vinicius-silva&repo=JacKar-Android&theme=dracula" />
   </a>
 </p>
 <p>
-  <a href="https://github.com/jackson-roberio/JackHub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-roberio&repo=JackHub&theme=dracula" />
+  <a href="https://github.com/jgabriel-vinicius-silva/JackHub">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jgabriel-vinicius-silva&repo=JackHub&theme=dracula" />
   </a>
 </p>
