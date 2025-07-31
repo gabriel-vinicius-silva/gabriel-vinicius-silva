@@ -49,16 +49,16 @@
 ### :small_orange_diamond: Alguns projetos chaves :eyes:
 <p>
   <a href="https://github.com/gabriel-vinicius-silva/scrum-certificate">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jgabriel-vinicius-silva&repo=scrum-certificate&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-vinicius-silva&repo=scrum-reicell&theme=dracula" />
   </a>
 </p>
 <p>
   <a href="https://github.com/jgabriel-vinicius-silva/JacKar-Android">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jgabriel-vinicius-silva&repo=JacKar-Android&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-vinicius-silva&repo=JacKar-Android&theme=dracula" />
   </a>
 </p>
 <p>
   <a href="https://github.com/jgabriel-vinicius-silva/JackHub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jgabriel-vinicius-silva&repo=JackHub&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-vinicius-silva&repo=JackHub&theme=dracula" />
   </a>
 </p>
